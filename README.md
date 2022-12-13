@@ -1,5 +1,5 @@
 - Hi, I’m @PlantTheDiffuser
-- I’m interested in machine learning and motorsports
+- I’m interested in motorsports
 - I’m currently studying Mechatronic Engineering at CSU, Chico
 
 <!---
