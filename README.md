@@ -1,5 +1,6 @@
 - Hi, I’m @PlantTheDiffuser
 - I’m interested in motorsports
+- I've got no idea what I'm doing lol
 - I’m currently studying Mechatronic Engineering at CSU, Chico
 
 <!---
